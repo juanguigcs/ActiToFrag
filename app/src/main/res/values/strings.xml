@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FragmentEx</string>
+    <string name="superman">SUPERMAN</string>
+    <string name="batman">BATMAN</string>
+    <string name="flash">FLASH</string>
+    <string name="poder_superman">super strength, flight, invulnerability, super speed, heat vision,freeze breath, x-ray vision, superhuman hearing, healing factor</string>
+    <string name="poder_batam">exceptional martial artist, combat strategy, inexhaustible wealth, brilliant deductive skill, advanced technologyx</string>
+    <string name="poder_flash">super speed, intangibility, superhuman agility</string>
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

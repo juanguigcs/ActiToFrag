@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mSuperman"
+        android:title="Superman">
+    </item>
+    <item android:id="@+id/mBatman"
+        android:title="Batman">
+    </item>
+    <item android:id="@+id/mFlash"
+        android:title="Flash">
+    </item>
+</menu>
